@@ -6,10 +6,10 @@ Welcome to the **Angular Learning Lab**! This repository contains my journey as 
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation] (#installation)
+- [Projects] (#projects)
+- [Contributing] (#contributing)
+- [License] (#license)
 
 ## Introduction
 
@@ -24,5 +24,3 @@ If you're learning Angular as well, feel free to explore the code, raise issues,
 - **RxJS**: For handling asynchronous data streams and reactive programming.
 - **SCSS**: For styling components.
 - **Node.js & npm**: For managing dependencies and running the development environment.
-
-
